@@ -1,12 +1,8 @@
 # Classifying Urban Land in Indonesia Using Convolutional Neural Networks 
 
-_Rebekah Adams & Tiffany M. Tran_
+_Rebekah Adams & Tiffany M. Tran, Department of City and Regional Planning, University of Pennsylvania_
 
-_Department of City and Regional Planning, University of Pennsylvania_
-
-_MUSA 6500 Geospatial Machine Learning in Remote Sensing_
-
-_Dr. Guray Erus_
+_MUSA 6500 Geospatial Machine Learning in Remote Sensing, Dr. Guray Erus_
 
 _April 2023_
 
