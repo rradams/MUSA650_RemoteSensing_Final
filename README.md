@@ -1,14 +1,14 @@
 # Classifying Urban Land in Indonesia Using Convolutional Neural Networks 
 
-__Rebekah Adams & Tiffany M. Tran__
+_Rebekah Adams & Tiffany M. Tran_
 
-__Department of City and Regional Planning, University of Pennsylvania__
+_Department of City and Regional Planning, University of Pennsylvania_
 
-__MUSA 6500 Geospatial Machine Learning in Remote Sensing__ 
+_MUSA 6500 Geospatial Machine Learning in Remote Sensing_
 
-__Dr. Guray Erus__ 
+_Dr. Guray Erus_
 
-__April 2023__
+_April 2023_
 
 
 This repository contains code for our project, "Classifying Urban Land in Indonesia Using Convolutional Neural Networks." In this project, we use a novel dataset of 1,424 satellite images to classify urban land in Cirebon, Indonesia using three deep learning algorithms: CNN, VGG16, and EfficientNetV2.
